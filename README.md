@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/clojugator-en.svg)](https://clojars.org/clojugator-en)
+
 # clojugator-en
 
 Produces all forms of all English verbs, including irregular verbs, **in under 90 lines**. It is a very (the most?) concise rule-based conjugator.
