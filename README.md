@@ -21,7 +21,7 @@ The `conjugate` function returns a map with the following keys:
 	
 Note that, other than for the verb **to be**, many of these will end up being the same, owing to the limited inflection of English verbs. The data is presented this way for thoroughness and symmetry.
 
-```
+```clojure
 user=> (require 'clojugator-en.core)
 
 user=> (clojugator-en.core/conjugate "be")
